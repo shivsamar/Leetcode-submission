@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivsamar/Leetcode-submission/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/shivsamar/Leetcode-submission/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->

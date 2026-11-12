@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivsamar/Leetcode-submission/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/shivsamar/Leetcode-submission/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -25,8 +26,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivsamar/Leetcode-submission/tree/master/0011-container-with-most-water) |
+| [0234-palindrome-linked-list](https://github.com/shivsamar/Leetcode-submission/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivsamar/Leetcode-submission/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shivsamar/Leetcode-submission/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/shivsamar/Leetcode-submission/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

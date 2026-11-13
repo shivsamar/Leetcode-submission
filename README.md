@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shivsamar/Leetcode-submission/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shivsamar/Leetcode-submission/tree/master/0258-add-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shivsamar/Leetcode-submission/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shivsamar/Leetcode-submission/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shivsamar/Leetcode-submission/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

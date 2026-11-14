@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivsamar/Leetcode-submission/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/shivsamar/Leetcode-submission/tree/master/0035-search-insert-position) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shivsamar/Leetcode-submission/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/shivsamar/Leetcode-submission/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->

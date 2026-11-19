@@ -1,5 +1,15 @@
 class Solution {
     public String toLowerCase(String s) {
-        return s.toLowerCase(); 
+        String str = "";
+        for(int i = 0;i<s.length();i++)
+        {
+            if((int)s.charAt(i)<=90 && (int)s.charAt(i)>=65 )
+            {
+                str = str + (char)((int)s.charAt(i)+32);
+            }
+            else
+                str = str +s.charAt(i);
+        }
+        return str;
     }
 }

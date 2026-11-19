@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/shivsamar/Leetcode-submission/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/shivsamar/Leetcode-submission/tree/master/0709-to-lower-case) |
 ## Array
 |  |
 | ------- |

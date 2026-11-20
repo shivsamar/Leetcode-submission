@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shivsamar/Leetcode-submission/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shivsamar/Leetcode-submission/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivsamar/Leetcode-submission/tree/master/0258-add-digits) |
 ## Bit Manipulation
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shivsamar/Leetcode-submission/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/shivsamar/Leetcode-submission/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/shivsamar/Leetcode-submission/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/shivsamar/Leetcode-submission/tree/master/0234-palindrome-linked-list) |

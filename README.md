@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/shivsamar/Leetcode-submission/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/shivsamar/Leetcode-submission/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shivsamar/Leetcode-submission/tree/master/0258-add-digits) |
+| [0633-sum-of-square-numbers](https://github.com/shivsamar/Leetcode-submission/tree/master/0633-sum-of-square-numbers) |
 | [1323-maximum-69-number](https://github.com/shivsamar/Leetcode-submission/tree/master/1323-maximum-69-number) |
 ## Bit Manipulation
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivsamar/Leetcode-submission/tree/master/0011-container-with-most-water) |
 | [0234-palindrome-linked-list](https://github.com/shivsamar/Leetcode-submission/tree/master/0234-palindrome-linked-list) |
+| [0633-sum-of-square-numbers](https://github.com/shivsamar/Leetcode-submission/tree/master/0633-sum-of-square-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -60,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shivsamar/Leetcode-submission/tree/master/0035-search-insert-position) |
+| [0633-sum-of-square-numbers](https://github.com/shivsamar/Leetcode-submission/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->

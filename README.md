@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/shivsamar/Leetcode-submission/tree/master/0258-add-digits) |
 | [0633-sum-of-square-numbers](https://github.com/shivsamar/Leetcode-submission/tree/master/0633-sum-of-square-numbers) |
 | [1323-maximum-69-number](https://github.com/shivsamar/Leetcode-submission/tree/master/1323-maximum-69-number) |
+| [3227-vowels-game-in-a-string](https://github.com/shivsamar/Leetcode-submission/tree/master/3227-vowels-game-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0520-detect-capital](https://github.com/shivsamar/Leetcode-submission/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/shivsamar/Leetcode-submission/tree/master/0709-to-lower-case) |
+| [3227-vowels-game-in-a-string](https://github.com/shivsamar/Leetcode-submission/tree/master/3227-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -63,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/shivsamar/Leetcode-submission/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/shivsamar/Leetcode-submission/tree/master/0633-sum-of-square-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/shivsamar/Leetcode-submission/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/shivsamar/Leetcode-submission/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->

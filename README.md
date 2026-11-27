@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/shivsamar/Leetcode-submission/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/shivsamar/Leetcode-submission/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivsamar/Leetcode-submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shivsamar/Leetcode-submission/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivsamar/Leetcode-submission/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0633-sum-of-square-numbers](https://github.com/shivsamar/Leetcode-submission/tree/master/0633-sum-of-square-numbers) |
 ## Brainteaser
 |  |
